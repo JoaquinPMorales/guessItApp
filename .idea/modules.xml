@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/guessItApp.iml" filepath="$PROJECT_DIR$/.idea/modules/guessItApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/guessItApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/guessItApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/guessItApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/guessItApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/guessItApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/guessItApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/guessItApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/guessItApp.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
